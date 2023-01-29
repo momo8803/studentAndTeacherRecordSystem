@@ -1,0 +1,8 @@
+C:\Users\mosik\source\C2\MidTermExam\bin\Debug\MidTermExam.exe.config
+C:\Users\mosik\source\C2\MidTermExam\bin\Debug\MidTermExam.exe
+C:\Users\mosik\source\C2\MidTermExam\bin\Debug\MidTermExam.pdb
+C:\Users\mosik\source\C2\MidTermExam\obj\Debug\MidTermExam.csproj.AssemblyReference.cache
+C:\Users\mosik\source\C2\MidTermExam\obj\Debug\MidTermExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosik\source\C2\MidTermExam\obj\Debug\MidTermExam.csproj.CoreCompileInputs.cache
+C:\Users\mosik\source\C2\MidTermExam\obj\Debug\MidTermExam.exe
+C:\Users\mosik\source\C2\MidTermExam\obj\Debug\MidTermExam.pdb
